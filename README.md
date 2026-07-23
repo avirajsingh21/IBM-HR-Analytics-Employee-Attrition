@@ -159,14 +159,11 @@ pip install -r requirements.txt
 This project is licensed under the MIT License.
 ## Hr kpi Dashboard
 
-![Hr kpi Dashboard]
-(Hr_kpi_Dashboard.png)
+![Hr KPI Dashboard](Hr_kpi_Dashboard.png)
 
 ## Attrition Distribution
 
 ![Attrition Distribution](Attrition_distribution.png)
 
 ## Corelation Heatmap
-
-![Corelation Heatmap]
-(Corelation_heatmap.png)
+![Corelation Heatmap](Corelation_heatmap.png)
